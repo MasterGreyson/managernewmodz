@@ -78,7 +78,8 @@
   "releaseId": 1,
   "author": "iiDK",
   "group": "Illegal Mods",
-  "installPath": "BepInEx/plugins"
+  "installPath": "BepInEx/plugins",
+    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/8.1.0/ii_Stupid_Menu.dll"
 },
   {
     "name": "bHaptics",
