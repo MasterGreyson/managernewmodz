@@ -76,6 +76,7 @@
   "tag": "",
   "gitPath": "iiDk-the-actual/iis.Stupid.Menu",
   "releaseId": 1,
+    "version": 8.1.0
   "author": "iiDK",
   "group": "Illegal Mods",
   "installPath": "BepInEx/plugins",
